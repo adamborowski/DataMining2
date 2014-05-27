@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.ext.weka37.classifier.WekaClassifierNodeFactory"/>
+<entry key="node-name" type="xstring" value="CVParameterSelection (3.7)"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME WEKA nodes (3.7)"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.ext.weka_3.7"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings">
+<entry key="weka-class" type="xstring" value="weka.classifiers.meta.CVParameterSelection"/>
+<entry key="weka-version" type="xstring" value="3.7"/>
+</config>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<entry key="ClassColumn" type="xstring" value="powaga"/>
+<entry key="Serialized Weka-Classifier" type="xstring" value="rO0ABXNyACp3ZWthLmNsYXNzaWZpZXJzLm1ldGEuQ1ZQYXJhbWV0ZXJTZWxlY3Rpb26lYjBSBqh8DwIACEQAEW1fQmVzdFBlcmZvcm1hbmNlSQAPbV9OdW1BdHRyaWJ1dGVzSQAKbV9OdW1Gb2xkc0kAD21fVHJhaW5Gb2xkU2l6ZVsAF21fQmVzdENsYXNzaWZpZXJPcHRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACm1fQ1ZQYXJhbXN0ABZMd2VrYS9jb3JlL0Zhc3RWZWN0b3I7WwATbV9DbGFzc2lmaWVyT3B0aW9uc3EAfgABWwANbV9Jbml0T3B0aW9uc3EAfgABeHIANXdla2EuY2xhc3NpZmllcnMuUmFuZG9taXphYmxlU2luZ2xlQ2xhc3NpZmllckVuaGFuY2VyB79uyLMyM+gCAAFJAAZtX1NlZWR4cgApd2VrYS5jbGFzc2lmaWVycy5TaW5nbGVDbGFzc2lmaWVyRW5oYW5jZXLNICjIMxw71AIAAUwADG1fQ2xhc3NpZmllcnQAHUx3ZWthL2NsYXNzaWZpZXJzL0NsYXNzaWZpZXI7eHIAI3dla2EuY2xhc3NpZmllcnMuQWJzdHJhY3RDbGFzc2lmaWVyWj6EIb0mI00CAAFaAAdtX0RlYnVneHAAc3IAGndla2EuY2xhc3NpZmllcnMudHJlZXMuSjQ4/Pp01kITlmQCAA1GAARtX0NGSQAGbV9TZWVkWgAObV9iaW5hcnlTcGxpdHNaAA5tX2NvbGxhcHNlVHJlZUkAC21fbWluTnVtT2JqWgALbV9ub0NsZWFudXBJAAptX251bUZvbGRzWgAVbV9yZWR1Y2VkRXJyb3JQcnVuaW5nWgAQbV9zdWJ0cmVlUmFpc2luZ1oACm1fdW5wcnVuZWRaAAxtX3VzZUxhcGxhY2VaABJtX3VzZU1ETGNvcnJlY3Rpb25MAAZtX3Jvb3R0ACtMd2VrYS9jbGFzc2lmaWVycy90cmVlcy9qNDgvQ2xhc3NpZmllclRyZWU7eHEAfgAGAD6AAAAAAAABAAEAAAACAAAAAAMAAQAAAXAAAAABAAAAAAAAAAAAAAAAAAAACgAAAABwc3IAFHdla2EuY29yZS5GYXN0VmVjdG9y4dWyXE3jIQcCAAB4cgATamF2YS51dGlsLkFycmF5TGlzdHiB0h2Zx2GdAwABSQAEc2l6ZXhwAAAAAXcEAAAACnNyADZ3ZWthLmNsYXNzaWZpZXJzLm1ldGEuQ1ZQYXJhbWV0ZXJTZWxlY3Rpb24kQ1ZQYXJhbWV0ZXK/NQw00VrqfwIACFoACm1fQWRkQXRFbmREAAdtX0xvd2VyRAAMbV9QYXJhbVZhbHVlWgAMbV9Sb3VuZFBhcmFtRAAHbV9TdGVwc0QAB21fVXBwZXJMAAttX1BhcmFtQ2hhcnQAEkxqYXZhL2xhbmcvU3RyaW5nO0wABnRoaXMkMHQALEx3ZWthL2NsYXNzaWZpZXJzL21ldGEvQ1ZQYXJhbWV0ZXJTZWxlY3Rpb247eHAAP8MzMzMzMzMAAAAAAAAAAABAJAAAAAAAAD/WZmZmZmZmdAABQ3EAfgAHeHBw"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="CVParameterSelection (3.7)"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClassifierModelPortObjectSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.ext.weka37.ports.WekaClassifierModelPortObject"/>
+<entry key="port_object_summary" type="xstring" value="CVParameterSelection"/>
+<entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+<entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="708ed88d-0c78-4827-addf-23beffa6713c"/>
+</config>
+</config>

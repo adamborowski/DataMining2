@@ -1,0 +1,7 @@
+Not at junction or within 20 metres: 0
+Authorised person: 1
+Auto traffic signal: 2
+Stop sign: 3
+Give way or uncontrolled: 4
+Data missing or out of range: -1
+

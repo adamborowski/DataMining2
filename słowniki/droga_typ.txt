@@ -1,0 +1,8 @@
+Roundabout: 1
+One way street: 2
+Dual carriageway: 3
+Single carriageway: 6
+Slip road: 7
+Unknown: 9
+One way street/Slip road: 12
+Data missing or out of range: -1

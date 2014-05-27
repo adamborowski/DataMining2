@@ -1,0 +1,19 @@
+Reversing: 1
+Parked: 2
+Waiting to go - held up: 3
+Slowing or stopping: 4
+Moving off: 5
+U-turn: 6
+Turning left: 7
+Waiting to turn left: 8
+Turning right: 9
+Waiting to turn right: 10
+Changing lane to left: 11
+Changing lane to right: 12
+Overtaking moving vehicle - offside: 13
+Overtaking static vehicle - offside: 14
+Overtaking - nearside: 15
+Going ahead left-hand bend: 16
+Going ahead right-hand bend: 17
+Going ahead other: 18
+Data missing or out of range: -1 

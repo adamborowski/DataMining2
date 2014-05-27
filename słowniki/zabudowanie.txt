@@ -1,0 +1,3 @@
+Miasto: 1
+Wieś: 2
+Unallocated: 3

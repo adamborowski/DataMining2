@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="factory" type="xstring" value="org.knime.base.node.preproc.rename.RenameNodeFactory"/>
+<entry key="node-name" type="xstring" value="Column Rename"/>
+<entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME GmbH, Konstanz, Germany"/>
+<config key="factory_settings"/>
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="all_columns">
+<config key="Accident_Severity">
+<entry key="old_column_name" type="xstring" value="Accident_Severity"/>
+<entry key="new_column_name" type="xstring" value="powaga"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Number_of_Vehicles">
+<entry key="old_column_name" type="xstring" value="Number_of_Vehicles"/>
+<entry key="new_column_name" type="xstring" value="liczba_pojazdow"/>
+<entry key="new_column_type" type="xint" value="0"/>
+</config>
+<config key="Number_of_Casualties">
+<entry key="old_column_name" type="xstring" value="Number_of_Casualties"/>
+<entry key="new_column_name" type="xstring" value="liczba_ofiar"/>
+<entry key="new_column_type" type="xint" value="0"/>
+</config>
+<config key="Day_of_Week">
+<entry key="old_column_name" type="xstring" value="Day_of_Week"/>
+<entry key="new_column_name" type="xstring" value="dzien_tygodnia"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Road_Type">
+<entry key="old_column_name" type="xstring" value="Road_Type"/>
+<entry key="new_column_name" type="xstring" value="typ_drogi"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Speed_limit">
+<entry key="old_column_name" type="xstring" value="Speed_limit"/>
+<entry key="new_column_name" type="xstring" value="limit_predkosci"/>
+<entry key="new_column_type" type="xint" value="0"/>
+</config>
+<config key="Junction_Detail">
+<entry key="old_column_name" type="xstring" value="Junction_Detail"/>
+<entry key="new_column_name" type="xstring" value="skrzyzowanie"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Junction_Control">
+<entry key="old_column_name" type="xstring" value="Junction_Control"/>
+<entry key="new_column_name" type="xstring" value="skrzyzowanie_kontrola"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Light_Conditions">
+<entry key="old_column_name" type="xstring" value="Light_Conditions"/>
+<entry key="new_column_name" type="xstring" value="oswietlenie"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Weather_Conditions">
+<entry key="old_column_name" type="xstring" value="Weather_Conditions"/>
+<entry key="new_column_name" type="xstring" value="pogoda"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Road_Surface_Conditions">
+<entry key="old_column_name" type="xstring" value="Road_Surface_Conditions"/>
+<entry key="new_column_name" type="xstring" value="nawierzchnia"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Carriageway_Hazards">
+<entry key="old_column_name" type="xstring" value="Carriageway_Hazards"/>
+<entry key="new_column_name" type="xstring" value="zdarzenia_losowe"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Urban_or_Rural_Area">
+<entry key="old_column_name" type="xstring" value="Urban_or_Rural_Area"/>
+<entry key="new_column_name" type="xstring" value="obszar"/>
+<entry key="new_column_type" type="xint" value="1"/>
+</config>
+<config key="Hour">
+<entry key="old_column_name" type="xstring" value="Hour"/>
+<entry key="new_column_name" type="xstring" value="godzina"/>
+<entry key="new_column_type" type="xint" value="0"/>
+</config>
+</config>
+</config>
+<config key="nodeAnnotation">
+<entry key="text" type="xstring" value="ładne nazwy"/>
+<entry key="bgcolor" type="xint" value="16777215"/>
+<entry key="x-coordinate" type="xint" value="22"/>
+<entry key="y-coordinate" type="xint" value="982"/>
+<entry key="width" type="xint" value="146"/>
+<entry key="height" type="xint" value="17"/>
+<entry key="alignment" type="xstring" value="CENTER"/>
+<config key="styles"/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="EXECUTED"/>
+<entry key="name" type="xstring" value="Column Rename"/>
+<entry key="hasContent" type="xboolean" value="true"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
+<entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
+<entry key="port_object_summary" type="xstring" value="Rows: 100000, Cols: 15"/>
+<entry key="port_dir_location" type="xstring" value="port_1"/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" value="977a4249-0031-4f5f-a923-bb8258b9e2b1"/>
+</config>
+</config>

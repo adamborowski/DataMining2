@@ -1,0 +1,8 @@
+Dry: 1
+Wet or damp: 2
+Snow: 3
+Frost or ice: 4
+Flood over 3cm. deep: 5
+Oil or diesel: 6
+Mud: 7
+Data missing or out of range: -1

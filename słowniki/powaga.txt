@@ -1,0 +1,3 @@
+Śmiertelny: 1
+Poważny: 2
+Lekki: 3

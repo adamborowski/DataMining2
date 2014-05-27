@@ -1,0 +1,6 @@
+Daylight: 1
+Darkness - lights lit: 4
+Darkness - lights unlit: 5
+Darkness - no lighting: 6
+Darkness - lighting unknown: 7
+Data missing or out of range: -1

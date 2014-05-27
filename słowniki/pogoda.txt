@@ -1,0 +1,11 @@
+Fine no high winds: 1
+Raining no high winds: 2
+Snowing no high winds: 3
+Fine + high winds: 4
+Raining + high winds: 5
+Snowing + high winds: 6
+Fog or mist: 7
+Other: 8
+Unknown: 9
+Data missing or out of range: 10
+

@@ -1,0 +1,9 @@
+None: 0
+Vehicle load on road: 1
+Other object on road: 2
+Previous accident: 3
+Dog on road: 4
+Other animal on road: 5
+Pedestrian in carriageway - not injured: 6
+Any animal in carriageway (except ridden horse): 7
+Data missing or out of range: -1

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="naivebayesDataModel">
+<entry key="ClassColumnName" type="xstring" value="powaga"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<config key="SkippedAttributes">
+<entry key="SkippedAttributesCounter" type="xint" value="0"/>
+</config>
+<config key="AttributeModelSection">
+<entry key="RecordCounter" type="xint" value="2000"/>
+<entry key="AttributeModelCounter" type="xint" value="7"/>
+<config key="AttributeModelData_0">
+<entry key="attributeName" type="xstring" value="powaga"/>
+<entry key="type" type="xstring" value="ClassModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="totalNoOfRecords" type="xint" value="2000"/>
+<entry key="maxNoOfClassValues" type="xint" value="20"/>
+<config key="classValues">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xstring" value="Lekki"/>
+<entry key="1" type="xstring" value="Poważny"/>
+</config>
+<config key="classRecordCounter">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="1000"/>
+<entry key="1" type="xint" value="1000"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_1">
+<entry key="attributeName" type="xstring" value="oswietlenie"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="Daylight"/>
+<entry key="1" type="xstring" value="Darkness - lighting unknown"/>
+<entry key="2" type="xstring" value="Darkness - no lighting"/>
+<entry key="3" type="xstring" value="Darkness - lights unlit"/>
+<entry key="4" type="xstring" value="Darkness - lights lit"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="Daylight"/>
+<entry key="1" type="xstring" value="Darkness - lighting unknown"/>
+<entry key="2" type="xstring" value="Darkness - no lighting"/>
+<entry key="3" type="xstring" value="Darkness - lights unlit"/>
+<entry key="4" type="xstring" value="Darkness - lights lit"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="731"/>
+<entry key="1" type="xint" value="3"/>
+<entry key="2" type="xint" value="27"/>
+<entry key="3" type="xint" value="4"/>
+<entry key="4" type="xint" value="235"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xstring" value="Daylight"/>
+<entry key="1" type="xstring" value="Darkness - lighting unknown"/>
+<entry key="2" type="xstring" value="Darkness - no lighting"/>
+<entry key="3" type="xstring" value="Darkness - lights unlit"/>
+<entry key="4" type="xstring" value="Darkness - lights lit"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="5"/>
+<entry key="0" type="xint" value="651"/>
+<entry key="1" type="xint" value="9"/>
+<entry key="2" type="xint" value="65"/>
+<entry key="3" type="xint" value="3"/>
+<entry key="4" type="xint" value="272"/>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_2">
+<entry key="attributeName" type="xstring" value="limit_predkosci"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="sum" type="xdouble" value="36040.0"/>
+<entry key="squareSum" type="xdouble" value="1447800.0"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="sum" type="xdouble" value="38780.0"/>
+<entry key="squareSum" type="xdouble" value="1686000.0"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_3">
+<entry key="attributeName" type="xstring" value="dzien_tygodnia"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="3"/>
+<entry key="1" type="xstring" value="2"/>
+<entry key="2" type="xstring" value="1"/>
+<entry key="3" type="xstring" value="7"/>
+<entry key="4" type="xstring" value="6"/>
+<entry key="5" type="xstring" value="5"/>
+<entry key="6" type="xstring" value="4"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="3"/>
+<entry key="1" type="xstring" value="2"/>
+<entry key="2" type="xstring" value="1"/>
+<entry key="3" type="xstring" value="7"/>
+<entry key="4" type="xstring" value="6"/>
+<entry key="5" type="xstring" value="5"/>
+<entry key="6" type="xstring" value="4"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xint" value="182"/>
+<entry key="1" type="xint" value="133"/>
+<entry key="2" type="xint" value="120"/>
+<entry key="3" type="xint" value="125"/>
+<entry key="4" type="xint" value="136"/>
+<entry key="5" type="xint" value="133"/>
+<entry key="6" type="xint" value="171"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xstring" value="3"/>
+<entry key="1" type="xstring" value="2"/>
+<entry key="2" type="xstring" value="1"/>
+<entry key="3" type="xstring" value="7"/>
+<entry key="4" type="xstring" value="6"/>
+<entry key="5" type="xstring" value="5"/>
+<entry key="6" type="xstring" value="4"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="7"/>
+<entry key="0" type="xint" value="164"/>
+<entry key="1" type="xint" value="121"/>
+<entry key="2" type="xint" value="131"/>
+<entry key="3" type="xint" value="152"/>
+<entry key="4" type="xint" value="171"/>
+<entry key="5" type="xint" value="131"/>
+<entry key="6" type="xint" value="130"/>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_4">
+<entry key="attributeName" type="xstring" value="pogoda"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xstring" value="Unknown"/>
+<entry key="1" type="xstring" value="Fog or mist"/>
+<entry key="2" type="xstring" value="Other"/>
+<entry key="3" type="xstring" value="Snowing no high winds"/>
+<entry key="4" type="xstring" value="Fine + high winds"/>
+<entry key="5" type="xstring" value="Snowing + high winds"/>
+<entry key="6" type="xstring" value="Raining no high winds"/>
+<entry key="7" type="xstring" value="Raining + high winds"/>
+<entry key="8" type="xstring" value="Fine no high winds"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="8"/>
+<entry key="0" type="xstring" value="Fog or mist"/>
+<entry key="1" type="xstring" value="Unknown"/>
+<entry key="2" type="xstring" value="Other"/>
+<entry key="3" type="xstring" value="Snowing no high winds"/>
+<entry key="4" type="xstring" value="Fine + high winds"/>
+<entry key="5" type="xstring" value="Raining no high winds"/>
+<entry key="6" type="xstring" value="Raining + high winds"/>
+<entry key="7" type="xstring" value="Fine no high winds"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="8"/>
+<entry key="0" type="xint" value="4"/>
+<entry key="1" type="xint" value="14"/>
+<entry key="2" type="xint" value="18"/>
+<entry key="3" type="xint" value="14"/>
+<entry key="4" type="xint" value="8"/>
+<entry key="5" type="xint" value="135"/>
+<entry key="6" type="xint" value="9"/>
+<entry key="7" type="xint" value="798"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xstring" value="Unknown"/>
+<entry key="1" type="xstring" value="Fog or mist"/>
+<entry key="2" type="xstring" value="Other"/>
+<entry key="3" type="xstring" value="Snowing no high winds"/>
+<entry key="4" type="xstring" value="Fine + high winds"/>
+<entry key="5" type="xstring" value="Snowing + high winds"/>
+<entry key="6" type="xstring" value="Raining no high winds"/>
+<entry key="7" type="xstring" value="Raining + high winds"/>
+<entry key="8" type="xstring" value="Fine no high winds"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="9"/>
+<entry key="0" type="xint" value="7"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="14"/>
+<entry key="3" type="xint" value="7"/>
+<entry key="4" type="xint" value="13"/>
+<entry key="5" type="xint" value="1"/>
+<entry key="6" type="xint" value="91"/>
+<entry key="7" type="xint" value="9"/>
+<entry key="8" type="xint" value="856"/>
+</config>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_5">
+<entry key="attributeName" type="xstring" value="liczba_pojazdow"/>
+<entry key="type" type="xstring" value="NumericalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="sum" type="xdouble" value="1861.0"/>
+<entry key="squareSum" type="xdouble" value="3855.0"/>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="sum" type="xdouble" value="1656.0"/>
+<entry key="squareSum" type="xdouble" value="3268.0"/>
+</config>
+</config>
+</config>
+<config key="AttributeModelData_6">
+<entry key="attributeName" type="xstring" value="zdarzenia_losowe"/>
+<entry key="type" type="xstring" value="NominalModel"/>
+<entry key="skipMissingVals" type="xboolean" value="true"/>
+<entry key="numberOfMissingValues" type="xint" value="0"/>
+<entry key="invalidCause" type="xstring" isnull="true" value=""/>
+<config key="data">
+<entry key="maxNoOfAttrs" type="xint" value="20"/>
+<entry key="noOfClasses" type="xint" value="2"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="Previous accident"/>
+<entry key="1" type="xstring" value="Pedestrian in carriageway - not injured"/>
+<entry key="2" type="xstring" value="Other object on road"/>
+<entry key="3" type="xstring" value="Vehicle load on road"/>
+<entry key="4" type="xstring" value="None"/>
+<entry key="5" type="xstring" value="Any animal in carriageway (except ridden horse)"/>
+</config>
+<config key="classValueData_0">
+<entry key="classValue" type="xstring" value="Lekki"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xstring" value="Pedestrian in carriageway - not injured"/>
+<entry key="1" type="xstring" value="Other object on road"/>
+<entry key="2" type="xstring" value="None"/>
+<entry key="3" type="xstring" value="Any animal in carriageway (except ridden horse)"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="10"/>
+<entry key="2" type="xint" value="986"/>
+<entry key="3" type="xint" value="2"/>
+</config>
+</config>
+<config key="classValueData_1">
+<entry key="classValue" type="xstring" value="Poważny"/>
+<entry key="noOfRows" type="xint" value="1000"/>
+<entry key="MissingValCounter" type="xint" value="0"/>
+<config key="attributeValues">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xstring" value="Previous accident"/>
+<entry key="1" type="xstring" value="Pedestrian in carriageway - not injured"/>
+<entry key="2" type="xstring" value="Other object on road"/>
+<entry key="3" type="xstring" value="Vehicle load on road"/>
+<entry key="4" type="xstring" value="None"/>
+<entry key="5" type="xstring" value="Any animal in carriageway (except ridden horse)"/>
+</config>
+<config key="attributeCounter">
+<entry key="array-size" type="xint" value="6"/>
+<entry key="0" type="xint" value="2"/>
+<entry key="1" type="xint" value="2"/>
+<entry key="2" type="xint" value="16"/>
+<entry key="3" type="xint" value="1"/>
+<entry key="4" type="xint" value="973"/>
+<entry key="5" type="xint" value="6"/>
+</config>
+</config>
+</config>
+</config>
+</config>
+</config>

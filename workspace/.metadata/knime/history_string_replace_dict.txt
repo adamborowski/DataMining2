@@ -1,0 +1,8 @@
+/home/adam/projekty/DataMining/słowniki/zabudowanie.txt
+/home/adam/projekty/DataMining/słowniki/zdarzenia_losowe.txt
+/home/adam/projekty/DataMining/słowniki/droga_nawierzchnia.txt
+/home/adam/projekty/DataMining/słowniki/droga_typ.txt
+/home/adam/projekty/DataMining/słowniki/oswietlenie.txt
+/home/adam/projekty/DataMining/słowniki/powaga.txt
+/home/adam/projekty/DataMining/słowniki/skrzyzowanie_kontrola.txt
+/home/adam/projekty/DataMining/słowniki/skrzyzowanie.txt

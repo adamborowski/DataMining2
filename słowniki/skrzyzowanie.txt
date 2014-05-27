@@ -1,0 +1,11 @@
+Not at junction or within 20 metres: 0
+Roundabout: 2
+Mini-roundabout: 2
+T or staggered junction: 3
+Slip road: 5
+Crossroads: 6
+More than 4 arms (not roundabout): 7
+Private drive or entrance: 8
+Other junction: 9
+Data missing or out of range: -1
+
