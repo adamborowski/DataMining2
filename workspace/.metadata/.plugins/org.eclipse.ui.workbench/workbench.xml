@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="20" version="2.0">
+<workbench progressCount="22" version="2.0">
 <workbenchAdvisor/>
 <window height="739" maximized="true" width="1014" x="95" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar/>
 <coolbarLayout>
-<coolItem id="main" itemType="typeToolBarContribution" x="132" y="30"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="48" y="30"/>
+<coolItem id="main" itemType="typeToolBarContribution" x="130" y="25"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="46" y="25"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.knime.workbench.editor.WorkflowEditor" itemType="typeToolBarContribution" x="807" y="30"/>
+<coolItem id="org.knime.workbench.editor.WorkflowEditor" itemType="typeToolBarContribution" x="801" y="25"/>
 </coolbarLayout>
 <page focus="true" label="&lt;Unknown Label&gt; - KNIME">
 <editors>
@@ -17,17 +17,11 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="org.knime.workbench.editor.WorkflowEditor" name="workflow.knime" partName="0: weka" title="0: weka" tooltip="0: weka" workbook="DefaultEditorWorkbook">
+<editor activePart="true" focus="true" id="org.knime.workbench.editor.WorkflowEditor" name="workflow.knime" partName="0: weka" title="0: weka" tooltip="0: weka" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="knime://LOCAL/weka/workflow.knime"/>
 </editor>
 </editors>
@@ -152,7 +146,12 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.knime.workbench.editor.WorkflowEditor" uri="knime://LOCAL/weka/workflow.knime"/>
+</editors>
+<item active="true" historyLabel="0: weka" index="0"/>
+</navigationHistory>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
