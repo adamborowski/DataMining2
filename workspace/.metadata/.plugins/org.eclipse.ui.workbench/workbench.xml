@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="22" version="2.0">
+<workbench progressCount="25" version="2.0">
 <workbenchAdvisor/>
 <window height="739" maximized="true" width="1014" x="95" y="24">
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar/>
 <coolbarLayout>
-<coolItem id="main" itemType="typeToolBarContribution" x="130" y="25"/>
-<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="46" y="25"/>
+<coolItem id="main" itemType="typeToolBarContribution" x="122" y="26"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="44" y="26"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="org.knime.workbench.editor.WorkflowEditor" itemType="typeToolBarContribution" x="801" y="25"/>
+<coolItem id="org.knime.workbench.editor.WorkflowEditor" itemType="typeToolBarContribution" x="761" y="26"/>
 </coolbarLayout>
 <page focus="true" label="&lt;Unknown Label&gt; - KNIME">
 <editors>
@@ -17,11 +17,12 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
+<part id="1"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor activePart="true" focus="true" id="org.knime.workbench.editor.WorkflowEditor" name="workflow.knime" partName="0: weka" title="0: weka" tooltip="0: weka" workbook="DefaultEditorWorkbook">
+<editor id="org.knime.workbench.editor.WorkflowEditor" name="workflow.knime" partName="0: weka" title="0: weka" tooltip="0: weka" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="knime://LOCAL/weka/workflow.knime"/>
 </editor>
 </editors>
@@ -100,7 +101,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.3" ratioLeft="303" ratioRight="707" relationship="2" relative="org.eclipse.ui.internal.ViewStack@fe154dd"/>
+<info part="org.eclipse.ui.editorss" ratio="0.14312267" ratioLeft="231" ratioRight="1383" relationship="2" relative="org.eclipse.ui.internal.ViewStack@fe154dd"/>
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@71003493" ratio="0.6989568" ratioLeft="469" ratioRight="202" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
@@ -117,7 +118,7 @@
 </presentation>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@447bd8da" ratio="0.7477243" ratioLeft="1150" ratioRight="388" relationship="2" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@447bd8da" ratio="0.7492754" ratioLeft="1034" ratioRight="346" relationship="2" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.knime.workbench.helpview" appearance="2" expanded="2">
 <page content="org.knime.workbench.helpview" label="Node Description"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -146,22 +147,27 @@
 </perspective>
 </perspectives>
 <workingSets/>
-<navigationHistory>
-<editors>
-<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.knime.workbench.editor.WorkflowEditor" uri="knime://LOCAL/weka/workflow.knime"/>
-</editors>
-<item active="true" historyLabel="0: weka" index="0"/>
-</navigationHistory>
+<navigationHistory/>
 </page>
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@fe154dd"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@128a8150"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1ed9f356"/>
+</trimArea>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@447bd8da"/>
+</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
 <trimArea IMemento.internal.id="1024">
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@432fb4b2"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@71003493"/>
 </trimArea>
 </trimLayout>
 </window>

@@ -6,8 +6,8 @@
 <config key="authorInformation">
 <entry key="authored-by" type="xstring" value="adam"/>
 <entry key="authored-when" type="xstring" value="2014-03-22 23:09:36 +0100"/>
-<entry key="lastEdited-by" type="xstring" value="adam"/>
-<entry key="lastEdited-when" type="xstring" value="2014-06-02 18:59:14 +0200"/>
+<entry key="lastEdited-by" type="xstring" value="maciek"/>
+<entry key="lastEdited-when" type="xstring" value="2014-06-09 00:09:10 +0200"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="IDLE"/>
@@ -30,8 +30,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="84"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="68"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="85"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -45,8 +45,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="504"/>
 <entry key="1" type="xint" value="237"/>
-<entry key="2" type="xint" value="76"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="92"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -60,8 +60,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="464"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="92"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="117"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -75,8 +75,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="644"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="90"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="111"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -90,8 +90,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="824"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="115"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="143"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -105,8 +105,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="944"/>
 <entry key="1" type="xint" value="217"/>
-<entry key="2" type="xint" value="61"/>
-<entry key="3" type="xint" value="95"/>
+<entry key="2" type="xint" value="74"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -120,8 +120,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="324"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="97"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="118"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -135,8 +135,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="204"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="87"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="106"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -148,10 +148,10 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="284"/>
+<entry key="0" type="xint" value="224"/>
 <entry key="1" type="xint" value="477"/>
-<entry key="2" type="xint" value="79"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="98"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -165,8 +165,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="297"/>
-<entry key="2" type="xint" value="100"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="122"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -180,8 +180,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="177"/>
-<entry key="2" type="xint" value="58"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="67"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -195,8 +195,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="537"/>
-<entry key="2" type="xint" value="58"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="67"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -210,8 +210,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="504"/>
 <entry key="1" type="xint" value="477"/>
-<entry key="2" type="xint" value="76"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="92"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -225,8 +225,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="417"/>
-<entry key="2" type="xint" value="100"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="122"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -240,8 +240,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="844"/>
 <entry key="1" type="xint" value="-103"/>
-<entry key="2" type="xint" value="61"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="74"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -255,8 +255,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="984"/>
 <entry key="1" type="xint" value="57"/>
-<entry key="2" type="xint" value="115"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="142"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -268,10 +268,10 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="304"/>
-<entry key="1" type="xint" value="697"/>
-<entry key="2" type="xint" value="65"/>
-<entry key="3" type="xint" value="81"/>
+<entry key="0" type="xint" value="464"/>
+<entry key="1" type="xint" value="617"/>
+<entry key="2" type="xint" value="80"/>
+<entry key="3" type="xint" value="85"/>
 </config>
 </config>
 </config>
@@ -285,8 +285,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="504"/>
 <entry key="1" type="xint" value="717"/>
-<entry key="2" type="xint" value="76"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="92"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -300,8 +300,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="657"/>
-<entry key="2" type="xint" value="100"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="122"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -315,8 +315,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="664"/>
 <entry key="1" type="xint" value="777"/>
-<entry key="2" type="xint" value="58"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="67"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -331,7 +331,7 @@
 <entry key="0" type="xint" value="324"/>
 <entry key="1" type="xint" value="197"/>
 <entry key="2" type="xint" value="50"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -345,8 +345,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="404"/>
 <entry key="1" type="xint" value="197"/>
-<entry key="2" type="xint" value="50"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="56"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -358,10 +358,10 @@
 <config key="ui_settings">
 <config key="extrainfo.node.bounds">
 <entry key="array-size" type="xint" value="4"/>
-<entry key="0" type="xint" value="224"/>
+<entry key="0" type="xint" value="264"/>
 <entry key="1" type="xint" value="317"/>
 <entry key="2" type="xint" value="50"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="3" type="xint" value="68"/>
 </config>
 </config>
 </config>
@@ -375,8 +375,8 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="204"/>
 <entry key="1" type="xint" value="217"/>
-<entry key="2" type="xint" value="79"/>
-<entry key="3" type="xint" value="79"/>
+<entry key="2" type="xint" value="98"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -390,8 +390,38 @@
 <entry key="array-size" type="xint" value="4"/>
 <entry key="0" type="xint" value="324"/>
 <entry key="1" type="xint" value="-43"/>
-<entry key="2" type="xint" value="100"/>
-<entry key="3" type="xint" value="66"/>
+<entry key="2" type="xint" value="119"/>
+<entry key="3" type="xint" value="68"/>
+</config>
+</config>
+</config>
+<config key="node_80">
+<entry key="id" type="xint" value="80"/>
+<entry key="node_settings_file" type="xstring" value="Apriori _3_7_ (#80)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="184"/>
+<entry key="1" type="xint" value="737"/>
+<entry key="2" type="xint" value="83"/>
+<entry key="3" type="xint" value="81"/>
+</config>
+</config>
+</config>
+<config key="node_81">
+<entry key="id" type="xint" value="81"/>
+<entry key="node_settings_file" type="xstring" value="Column Filter (#81)/settings.xml"/>
+<entry key="node_is_meta" type="xboolean" value="false"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+<config key="ui_settings">
+<config key="extrainfo.node.bounds">
+<entry key="array-size" type="xint" value="4"/>
+<entry key="0" type="xint" value="84"/>
+<entry key="1" type="xint" value="737"/>
+<entry key="2" type="xint" value="98"/>
+<entry key="3" type="xint" value="81"/>
 </config>
 </config>
 </config>
@@ -448,36 +478,62 @@
 <entry key="destPort" type="xint" value="1"/>
 </config>
 <config key="connection_7">
+<entry key="sourceID" type="xint" value="48"/>
+<entry key="destID" type="xint" value="49"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
+</config>
+<config key="connection_8">
+<entry key="sourceID" type="xint" value="48"/>
+<entry key="destID" type="xint" value="77"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
+<config key="ui_settings">
+<entry key="extrainfo.conn.bendpoints_size" type="xint" value="2"/>
+<config key="extrainfo.conn.bendpoints_0">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="873"/>
+<entry key="1" type="xint" value="152"/>
+</config>
+<config key="extrainfo.conn.bendpoints_1">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="188"/>
+<entry key="1" type="xint" value="154"/>
+</config>
+</config>
+</config>
+<config key="connection_9">
 <entry key="sourceID" type="xint" value="50"/>
 <entry key="destID" type="xint" value="14"/>
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="1"/>
 </config>
-<config key="connection_8">
+<config key="connection_10">
 <entry key="sourceID" type="xint" value="51"/>
 <entry key="destID" type="xint" value="79"/>
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="0"/>
 </config>
-<config key="connection_9">
+<config key="connection_11">
 <entry key="sourceID" type="xint" value="51"/>
 <entry key="destID" type="xint" value="50"/>
 <entry key="sourcePort" type="xint" value="0"/>
 <entry key="destPort" type="xint" value="0"/>
 </config>
-<config key="connection_10">
+<config key="connection_12">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="68"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="0"/>
 </config>
-<config key="connection_11">
+<config key="connection_13">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="74"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="0"/>
 </config>
-<config key="connection_12">
+<config key="connection_14">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="62"/>
 <entry key="sourcePort" type="xint" value="1"/>
@@ -487,7 +543,7 @@
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
 </config>
-<config key="connection_13">
+<config key="connection_15">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="69"/>
 <entry key="sourcePort" type="xint" value="1"/>
@@ -497,7 +553,7 @@
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
 </config>
-<config key="connection_14">
+<config key="connection_16">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="5"/>
 <entry key="sourcePort" type="xint" value="1"/>
@@ -507,13 +563,13 @@
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
 </config>
-<config key="connection_15">
+<config key="connection_17">
 <entry key="sourceID" type="xint" value="58"/>
 <entry key="destID" type="xint" value="73"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="0"/>
 </config>
-<config key="connection_16">
+<config key="connection_18">
 <entry key="sourceID" type="xint" value="62"/>
 <entry key="destID" type="xint" value="61"/>
 <entry key="sourcePort" type="xint" value="0"/>
@@ -523,7 +579,7 @@
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
 </config>
-<config key="connection_17">
+<config key="connection_19">
 <entry key="sourceID" type="xint" value="62"/>
 <entry key="destID" type="xint" value="63"/>
 <entry key="sourcePort" type="xint" value="0"/>
@@ -532,18 +588,6 @@
 <config key="ui_settings">
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
 </config>
-</config>
-<config key="connection_18">
-<entry key="sourceID" type="xint" value="66"/>
-<entry key="destID" type="xint" value="49"/>
-<entry key="sourcePort" type="xint" value="1"/>
-<entry key="destPort" type="xint" value="1"/>
-</config>
-<config key="connection_19">
-<entry key="sourceID" type="xint" value="66"/>
-<entry key="destID" type="xint" value="77"/>
-<entry key="sourcePort" type="xint" value="1"/>
-<entry key="destPort" type="xint" value="1"/>
 </config>
 <config key="connection_20">
 <entry key="sourceID" type="xint" value="66"/>
@@ -555,13 +599,13 @@
 <entry key="extrainfo.conn.bendpoints_size" type="xint" value="3"/>
 <config key="extrainfo.conn.bendpoints_0">
 <entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xint" value="928"/>
-<entry key="1" type="xint" value="135"/>
+<entry key="0" type="xint" value="1032"/>
+<entry key="1" type="xint" value="149"/>
 </config>
 <config key="extrainfo.conn.bendpoints_1">
 <entry key="array-size" type="xint" value="2"/>
-<entry key="0" type="xint" value="120"/>
-<entry key="1" type="xint" value="200"/>
+<entry key="0" type="xint" value="125"/>
+<entry key="1" type="xint" value="152"/>
 </config>
 <config key="extrainfo.conn.bendpoints_2">
 <entry key="array-size" type="xint" value="2"/>
@@ -595,6 +639,37 @@
 <entry key="destID" type="xint" value="76"/>
 <entry key="sourcePort" type="xint" value="1"/>
 <entry key="destPort" type="xint" value="0"/>
+</config>
+<config key="connection_24">
+<entry key="sourceID" type="xint" value="77"/>
+<entry key="destID" type="xint" value="81"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
+<entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
+<config key="ui_settings">
+<entry key="extrainfo.conn.bendpoints_size" type="xint" value="3"/>
+<config key="extrainfo.conn.bendpoints_0">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="248"/>
+<entry key="1" type="xint" value="331"/>
+</config>
+<config key="extrainfo.conn.bendpoints_1">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="46"/>
+<entry key="1" type="xint" value="332"/>
+</config>
+<config key="extrainfo.conn.bendpoints_2">
+<entry key="array-size" type="xint" value="2"/>
+<entry key="0" type="xint" value="38"/>
+<entry key="1" type="xint" value="758"/>
+</config>
+</config>
+</config>
+<config key="connection_25">
+<entry key="sourceID" type="xint" value="81"/>
+<entry key="destID" type="xint" value="80"/>
+<entry key="sourcePort" type="xint" value="1"/>
+<entry key="destPort" type="xint" value="1"/>
 </config>
 </config>
 <config key="workflow_editor_settings">

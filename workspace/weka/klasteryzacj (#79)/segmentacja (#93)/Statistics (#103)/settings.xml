@@ -17,6 +17,16 @@
 <entry key="EnabledStatus" type="xboolean" value="true"/>
 </config>
 <entry key="compute_median" type="xboolean" value="false"/>
+<config key="num_nominal-values_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="num_nominal-values" type="xint" value="20"/>
+<config key="num_nominal-values_output_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="num_nominal-values_output" type="xint" value="1000"/>
 <config key="filter_nominal_columns_Internals">
 <entry key="SettingsModelID" type="xstring" value="SMID_filterString"/>
 <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -34,16 +44,6 @@
 </config>
 <entry key="keep_all_columns_selected" type="xboolean" value="false"/>
 </config>
-<config key="num_nominal-values_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="num_nominal-values" type="xint" value="20"/>
-<config key="num_nominal-values_output_Internals">
-<entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-<entry key="EnabledStatus" type="xboolean" value="true"/>
-</config>
-<entry key="num_nominal-values_output" type="xint" value="1000"/>
 </config>
 <entry key="customDescription" type="xstring" isnull="true" value=""/>
 <entry key="state" type="xstring" value="CONFIGURED"/>
